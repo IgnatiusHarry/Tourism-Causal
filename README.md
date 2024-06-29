@@ -1,4 +1,4 @@
-# Regional Tourism Dynamics in Indonesia: A Spatial and Fixed Effect Analysis of Economic Performance and Unemployment in 34 Provinces (2018-2020)
+# The Impact of Tourism Development on Regional Economic Performance and Unemployment: A Panel Data Analysis of Indonesian Provinces (2018-2020)
 
 **Abstract**
 
