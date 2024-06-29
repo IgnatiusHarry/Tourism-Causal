@@ -1,6 +1,6 @@
 #Name : Ignatius Harry Cahiadharma 柯昱安
 #UID : 112266019
-#Task-2 Causal Inferences, Prof. Tzu-Ting Yang
+#Final Assignment of Causal Inferences, Prof. Tzu-Ting Yang
 
 # Question 2.1 -----------------------------------------------------------
 #Use commands to transform your term paper data into R’s data format
